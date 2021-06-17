@@ -9,7 +9,7 @@ import './header.css';
 //stateless components - criamos componentes por meio de variaveis
 //pode tirar os parenteses se desejar
 const Header = () => (
-    <header id="main-header">Produtos Duberger</header>
+    <header id="main-header">Produto Ewander Carvalho</header>
     
 );
  
